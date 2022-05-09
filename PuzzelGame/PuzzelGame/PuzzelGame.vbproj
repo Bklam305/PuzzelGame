@@ -120,5 +120,44 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
